@@ -40,7 +40,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com//market-basket-insights.git
+   git clone https://github.com/muthuabi28104/market-basket-insights.git
    ```
 
 2. Change to the project directory:
@@ -111,4 +111,27 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to customize this README to suit your specific project and add any additional sections or information as needed. Make sure to keep it up-to-date as your project evolves.
+
+
+## Data
+
+### Dataset Source
+The dataset used for this Market Basket Insights analysis was sourced from [Source Name]. You can find the original dataset at [Dataset URL] or [Data Provider's Website].
+
+# data set link :(https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis)
+
+### Description
+The dataset contains transaction data from [Description of Data Source]. Each row in the dataset represents a single transaction, and the columns include information such as:
+
+- `TransactionID`: A unique identifier for each transaction.
+- `ProductID`: A unique identifier for each product purchased.
+- `ProductName`: The name or description of the product.
+- `Quantity`: The quantity of each product purchased in the transaction.
+
+The dataset was collected during the period of [Collection Period], and it contains [Number of Transactions] transactions and [Number of Products] unique products.
+
+Before using this dataset for Market Basket Analysis, it may be necessary to preprocess it, handle missing values, and format it to be compatible with the analysis code in this repository.
+
+Please ensure that you have the required dataset in the appropriate format and location as specified in the configuration (`config.py`) before running the analysis code.
+
+Feel free to provide more specific details about the dataset, its origin, and any data preprocessing steps required for your particular analysis.
