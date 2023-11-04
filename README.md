@@ -111,13 +111,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+# Data source with description :
+extended version of a README with data source and description for market basket insights project :
 
-
+#Market Basket Insights 
+ This project is designed to market basket insights 
+ 
 ## Data
 
 ### Dataset Source
 The dataset used for this Market Basket Insights analysis was sourced from [Source Name]. You can find the original dataset at [Dataset URL] or [Data Provider's Website].
-
+# Source name : market basket insights 
 # data set link :(https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis)
 
 ### Description
@@ -134,4 +138,4 @@ Before using this dataset for Market Basket Analysis, it may be necessary to pre
 
 Please ensure that you have the required dataset in the appropriate format and location as specified in the configuration (`config.py`) before running the analysis code.
 
-Feel free to provide more specific details about the dataset, its origin, and any data preprocessing steps required for your particular analysis.
+
